@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fuking-monsters/static/css/main.515663fb.chunk.css",
+    "main.js": "/fuking-monsters/static/js/main.b0c14154.chunk.js",
+    "main.js.map": "/fuking-monsters/static/js/main.b0c14154.chunk.js.map",
+    "runtime-main.js": "/fuking-monsters/static/js/runtime-main.1770fcd3.js",
+    "runtime-main.js.map": "/fuking-monsters/static/js/runtime-main.1770fcd3.js.map",
+    "static/js/2.4f66788d.chunk.js": "/fuking-monsters/static/js/2.4f66788d.chunk.js",
+    "static/js/2.4f66788d.chunk.js.map": "/fuking-monsters/static/js/2.4f66788d.chunk.js.map",
+    "index.html": "/fuking-monsters/index.html",
+    "precache-manifest.481973c10861193b6ebe3bfc2406e66d.js": "/fuking-monsters/precache-manifest.481973c10861193b6ebe3bfc2406e66d.js",
+    "service-worker.js": "/fuking-monsters/service-worker.js",
+    "static/css/main.515663fb.chunk.css.map": "/fuking-monsters/static/css/main.515663fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1770fcd3.js",
+    "static/js/2.4f66788d.chunk.js",
+    "static/css/main.515663fb.chunk.css",
+    "static/js/main.b0c14154.chunk.js"
+  ]
+}
